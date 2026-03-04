@@ -4,7 +4,7 @@
 
 A neon-charged Space Invaders-style arcade game built with the HTML5 Canvas API. Features particle explosions, progressive difficulty, enemy AI patterns, and full mobile touch controls.
 
-**[🎮 Play Now](https://stackedalchemist.github.io/stacked-alchemist/space-invaders/index.html)**
+**[🎮 Play Now](https://stackedalchemist.github.io/stacked-alchemist/space-invaders/)**
 
 ---
 
@@ -48,7 +48,7 @@ A neon-charged Space Invaders-style arcade game built with the HTML5 Canvas API.
 ## 🚀 Running Locally
 
 ```bash
-git clone https://github.com/StackedAlchemist/Portfolio.git
+git clone https://github.com/StackedAlchemist/stacked-alchemist.git
 cd Portfolio/space-invaders
 # Open index.html in your browser
 ```
@@ -71,4 +71,4 @@ space-invaders/
 
 ---
 
-*Built by [Billy Williams](https://stackedalchemist.github.io/Portfolio/) — Stacked Alchemist*
+*Built by [Billy Williams](https://stackedalchemist.github.io/stacked-alchemist/) — Stacked Alchemist*
